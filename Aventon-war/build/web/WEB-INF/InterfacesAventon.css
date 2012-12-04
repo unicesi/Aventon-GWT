@@ -1,0 +1,107 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+.sendButton {
+  display: block;
+  font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}
+.top {
+	background-repeat: no-repeat;
+	background-image: url(Logo.png);
+}
+.wrap {
+	color: White;
+	background-color: White;
+}
+.gwt-TextBox {
+	color: Black;
+	border: 1px solid White;
+	background-color: #c3e1f5;
+}
+.gwt-PasswordTextBox {
+	color: Black;
+	border: 1px solid White;
+	background-color: #c3e1f5;
+}
+.formulario {
+
+}
+.gwt-Label {
+	color: #64b1e5;
+	margin-left: 7px;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+.gwt-MenuItem {
+	color: #64b1e5;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 24px;
+	font-family: serif;
+}
+.gwt-MenuItemSeparator {
+
+}
+.gwt-Button {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.gwt-MenuBar gwt-MenuBar-vertical {
+	font-size: 16px;
+}
+.body {
+	margin: auto;
+	background-image: url(Fondo.png);
+}
+.panelSesion {
+	margin-right: 20px;
+}
+.gwt-ListBox {
+	border: 1px solid White;
+	background-color: #c3e1f5;
+}
+.gwt-DateBox {
+	border: 1px solid White;
+	background-color: #c3e1f5;
+}
+.gwt-LabelTitulos {
+	color: #64b1e5;
+	font-size: 24px;
+	font-family: serif;
+	text-align: left;
+}
+.tablaFormularios {
+	border-right: 4px solid #b0d534;
+	border-left: thin solid #b0d534;
+}
+.formularioInicio {
+	padding-right: 70px;
+
+}

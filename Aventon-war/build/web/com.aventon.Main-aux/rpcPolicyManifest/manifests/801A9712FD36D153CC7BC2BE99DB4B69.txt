@@ -1,0 +1,2 @@
+serviceClass: com.aventon.client.GWTService
+path: D2B4A713EB8318AB5C7FDFC5A812E267.gwt.rpc

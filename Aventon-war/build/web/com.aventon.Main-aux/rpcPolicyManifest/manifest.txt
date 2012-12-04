@@ -1,0 +1,3 @@
+# Module com.aventon.Main
+# RPC service class, partial path of RPC policy file
+com.aventon.client.GWTService, D2B4A713EB8318AB5C7FDFC5A812E267.gwt.rpc
